@@ -6,11 +6,22 @@ function home() {
   return (
     <div>
       <Head>
-
+        <title>Akshar Patel Resume</title>
       </Head>
 
       <main>
-        
+      {/* home/header */}
+
+      {/* About */}
+
+      {/* Resume */}
+
+      {/* Works */}
+
+      {/* contact */}
+
+      {/* Footer */}
+
       </main>
     </div>
   )
