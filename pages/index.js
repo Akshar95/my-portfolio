@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import About from '../Components/About'
 import Header from '../Components/Header'
 
 function home() {
@@ -10,8 +11,8 @@ function home() {
       </Head>
 
       <main>
-      {/* home/header */}
       <Header />
+      <About />
 
      
 
