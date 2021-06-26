@@ -26,11 +26,6 @@ function Header() {
              <Image 
              className='object-contain'
              src="/neha.jpg" alt=" " width={213.5} height={76}  />
-
-             <div>
-                 <h1 className='responsive-headline '>
-                     I am Neha Patel</h1>
-             </div>
            
         </header>
     )
