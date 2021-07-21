@@ -1,7 +1,7 @@
 function About() {
     return (
-        <div>
-            <h1>THIS IS THE ABOUT PAGE</h1>
+        <div className='h-full'>
+           <h1>About page</h1>
         </div>
     )
 }
